@@ -26,7 +26,13 @@
   1. デザインの条件が限られる。
    ->実装段階でパーセンテージ値(%)を指定するため
 
+##`densitydpi`について
+ - WebKit系のブラウザで実装されたmeta viewportのparams。
+ - 今後、削除予定(削除された)
+  ->[WebKit Bugzilla  Remove support for target-densitydpi](https://bugs.webkit.org/show_bug.cgi?id=88047)
+
 ##参考サイト
-- http://www.w3.org/
-- http://qiita.com/fnobi/items/4bec5ddf4ea83c5e1820
-- https://w3g.jp/css/guide/units
+- [http://www.w3.org/](http://www.w3.org/)
+- [http://qiita.com/](http://qiita.com/fnobi/items/4bec5ddf4ea83c5e1820)
+- [https://w3g.jp/](https://w3g.jp/css/guide/units)
+- [http://stackoverflow.com/](http://stackoverflow.com/questions/11592015/support-for-target-densitydpi-is-removed-from-webkit)

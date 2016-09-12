@@ -1,17 +1,21 @@
+@charset "utf-8";
+
+// Import Modules
 @import "set";
 @import "reset";
 @import "common";
 
+// Style
 body {
 	color: #000;	
 	background: #fff;
 	width: 750px;
 }
-div.wrapper {
+.wrapper {
 	width: 750px;
 	overflow: hidden;
 }
-div.header {
+.header {
   width: 750px;
   height: 300px;
   margin: 0 auto;
